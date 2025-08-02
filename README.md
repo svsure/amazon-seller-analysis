@@ -16,5 +16,5 @@ This project analyzes Amazon Bestseller data using Python and Pandas. It focuses
 
 ## 💗 Credits
 * Author: Srithija Sure 
-* Dataset provided by: CodeDex, Kaggle
-* Big thanks to CodeDex for guiding me through this project! I learned so much about data analytics through the utilization of Python and Pandas. 
+* Dataset provided by: CodéDex, Kaggle
+* Big thanks to CodéDex for guiding me through this project! I learned so much about data analytics through the utilization of Python and Pandas. 
